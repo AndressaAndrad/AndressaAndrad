@@ -13,6 +13,8 @@
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="And-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="right" alt="And-pic" height="150" style="border-radius:50px;" 
+   src=https://picrew.me/share?cd=UjLF3Vpoo8&fbclid=IwAR39LyBT02QbW7T2v8zIeHWO8fBvjottFW8OhmKN1ZUUJ2bRaXCN_5e672w >
 </div>
   
  ##
